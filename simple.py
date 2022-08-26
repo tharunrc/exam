@@ -1,5 +1,5 @@
 if username == 'Put Your Username Here':#change this
-   print("checking username")
+   print("checking usernameee")
    time.sleep(0.5)
    print("username is right")
    password = input(' type your password: ')
